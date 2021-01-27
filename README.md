@@ -1,2 +1,2 @@
-# help
-Help and Support
+# Initial page
+
